@@ -1,0 +1,20 @@
+@using Microsoft.AspNetCore.Authentication
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<h2>Search by user id</h2>
+<form asp-controller="admin" asp-action="details" method="GET"> 
+    <p>
+        User Id: <input type="number" name="id">
+        <input type="submit" value="Submit" />
+    </p>
+</form>
+<br>
+<h2>View all users?</h2>
+<form asp-controller="admin" asp-action="all" method="GET">
+    <input type="submit" value="Yes">
+</form>

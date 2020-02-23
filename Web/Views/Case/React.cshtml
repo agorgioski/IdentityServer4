@@ -1,0 +1,23 @@
+@model IEnumerable<Models.CaseModel>
+
+@{
+    ViewData["Title"] = "React test";
+}
+
+<h1>React test</h1>
+
+@Html.React("CaseBox", new 
+{
+    initialData = Model,
+    labels = new [] {"Id", "Description", "Case number", "Kind", "Status", "Title"},
+    getUrl = Url.Action("Cases"),
+    editUrl = Url.Action("EditCase"),
+    createUrl = Url.Action("CreateCase"),
+    deleteUrl = Url.Action("DeleteCase")
+})
+
+
+<script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/16.8.0/umd/react.development.js"></script>
+<script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.8.0/umd/react-dom.development.js"></script>
+<script src="@Url.Content("~/js/react.jsx")"></script>
+@Html.ReactInitJavaScript()

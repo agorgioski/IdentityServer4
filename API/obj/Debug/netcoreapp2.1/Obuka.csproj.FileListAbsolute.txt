@@ -1,0 +1,14 @@
+C:\TestApp\Obuka\bin\Debug\netcoreapp2.1\Obuka.deps.json
+C:\TestApp\Obuka\bin\Debug\netcoreapp2.1\Obuka.runtimeconfig.json
+C:\TestApp\Obuka\bin\Debug\netcoreapp2.1\Obuka.runtimeconfig.dev.json
+c:\TestApp\Obuka\bin\Debug\netcoreapp2.1\Obuka.dll
+c:\TestApp\Obuka\bin\Debug\netcoreapp2.1\Obuka.pdb
+c:\TestApp\Obuka\obj\Debug\netcoreapp2.1\Obuka.csprojAssemblyReference.cache
+c:\TestApp\Obuka\obj\Debug\netcoreapp2.1\Obuka.csproj.CoreCompileInputs.cache
+c:\TestApp\Obuka\obj\Debug\netcoreapp2.1\Obuka.RazorAssemblyInfo.cache
+c:\TestApp\Obuka\obj\Debug\netcoreapp2.1\Obuka.RazorAssemblyInfo.cs
+c:\TestApp\Obuka\obj\Debug\netcoreapp2.1\Obuka.AssemblyInfoInputs.cache
+c:\TestApp\Obuka\obj\Debug\netcoreapp2.1\Obuka.AssemblyInfo.cs
+c:\TestApp\Obuka\obj\Debug\netcoreapp2.1\Obuka.RazorTargetAssemblyInfo.cache
+c:\TestApp\Obuka\obj\Debug\netcoreapp2.1\Obuka.dll
+c:\TestApp\Obuka\obj\Debug\netcoreapp2.1\Obuka.pdb

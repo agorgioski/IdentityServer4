@@ -1,0 +1,85 @@
+@model Models.AppUser
+<div>
+    <h3>User</h3>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SubjectId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SubjectId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProviderName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ProviderName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProviderSubjectId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ProviderSubjectId)
+        </dd>
+    </dl>
+    <br/>
+    <div class="row">
+        <h4>Claims</h4>
+        @if (Model.Claims is null) 
+        {
+            <h5>This user has no claims</h5>
+        }
+        else  
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Claims[0].Issuer)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Claims[0].OriginalIssuer)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Claims[0].Type)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Claims[0].Value)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Claims[0].ValueType)
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                @foreach (var claim in Model.Claims) 
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => claim.Issuer)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => claim.OriginalIssuer)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => claim.Type)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => claim.Value)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => claim.ValueType)
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        }   
+    </div>
+</div>

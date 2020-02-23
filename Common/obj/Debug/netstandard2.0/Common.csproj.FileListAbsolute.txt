@@ -1,0 +1,35 @@
+C:\TestApp\Obuka\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\TestApp\Obuka\Common\bin\Debug\netstandard2.0\Common.dll
+C:\TestApp\Obuka\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\TestApp\Obuka\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\TestApp\Obuka\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\TestApp\Obuka\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\TestApp\Obuka\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\TestApp\Obuka\Common\obj\Debug\netstandard2.0\Common.dll
+C:\TestApp\Obuka\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Obuka\Obuka\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Obuka\Obuka\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Obuka\Obuka\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Obuka\Obuka\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Obuka\Obuka\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Obuka\Obuka\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Obuka\Obuka\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Obuka\Obuka\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Common\bin\Debug\netstandard2.0\Common.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Common\obj\Debug\netstandard2.0\Common.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\Materijal\IdentityServer4\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\Materijal\IdentityServer4\Common\bin\Debug\netstandard2.0\Common.dll
+D:\Materijal\IdentityServer4\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\Materijal\IdentityServer4\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\Materijal\IdentityServer4\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\Materijal\IdentityServer4\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\Materijal\IdentityServer4\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\Materijal\IdentityServer4\Common\obj\Debug\netstandard2.0\Common.dll
+D:\Materijal\IdentityServer4\Common\obj\Debug\netstandard2.0\Common.pdb

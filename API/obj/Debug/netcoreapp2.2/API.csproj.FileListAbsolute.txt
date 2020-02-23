@@ -1,0 +1,85 @@
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\API.dll
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\Common.dll
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\Data.dll
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\Models.dll
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\Data.pdb
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\Models.pdb
+C:\TestApp\Obuka\API\bin\Debug\netcoreapp2.2\Common.pdb
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.dll
+C:\TestApp\Obuka\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\Common.dll
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\Data.dll
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\Models.dll
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Obuka\Obuka\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Obuka\Obuka\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Obuka\Obuka\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Obuka\Obuka\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Obuka\Obuka\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Obuka\Obuka\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Obuka\Obuka\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Obuka\Obuka\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Obuka\Obuka\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Obuka\Obuka\API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\API.deps.json
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\API.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\API.pdb
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\Common.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\Data.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\Models.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\Data.pdb
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\Models.pdb
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\bin\Debug\netcoreapp2.2\Common.pdb
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\API\obj\Debug\netcoreapp2.2\API.pdb
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\API.deps.json
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\API.dll
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\API.pdb
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\Common.dll
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\Data.dll
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\Models.dll
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\Data.pdb
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\Models.pdb
+D:\Materijal\IdentityServer4\API\bin\Debug\netcoreapp2.2\Common.pdb
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.dll
+D:\Materijal\IdentityServer4\API\obj\Debug\netcoreapp2.2\API.pdb

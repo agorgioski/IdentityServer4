@@ -1,0 +1,82 @@
+{
+    // Use IntelliSense to find out which attributes exist for C# debugging
+    // Use hover for the description of the existing attributes
+    // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+    "version": "0.2.0",
+    "configurations": [
+         {
+             "name": "API",
+             "type": "coreclr",
+             "request": "launch",
+             "preLaunchTask": "buildAPI",
+             "program": "${workspaceFolder}/API/bin/Debug/netcoreapp2.2/API.dll",
+             "args": [],
+             "cwd": "${workspaceFolder}/API",
+             "env": {
+                 "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5003"
+             },
+             "sourceFileMap": {
+                 "/Views": "${workspaceFolder}/Views"
+             },
+             "stopAtEntry": false,
+             "requireExactSource": false,
+             "justMyCode":false,
+             "internalConsoleOptions": "neverOpen"
+         },
+         {
+            "name": "Web",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildWeb",
+            "program": "${workspaceFolder}/Web/bin/Debug/netcoreapp2.2/Web.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Web",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+               "ASPNETCORE_URLS": "http://localhost:5001"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            },
+            "stopAtEntry": false,
+            "requireExactSource": false,
+            "justMyCode":false,
+            "internalConsoleOptions": "neverOpen"
+        },
+        {
+            "name": "IdentityServer",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildIdentityServer",
+            "program": "${workspaceFolder}/IdentityServer/bin/Debug/netcoreapp2.2/IdentityServer.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/IdentityServer",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+               "ASPNETCORE_URLS": "http://localhost:5000"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            },
+            "stopAtEntry": false,
+            "requireExactSource": false,
+            "justMyCode":false,
+            "internalConsoleOptions": "neverOpen"
+        }
+     ],
+     "compounds": [
+         {
+             "name": "Server/Client",
+             "configurations": ["API", "Web"]
+         },
+         {
+             "name": "Client/IdentityServer",
+             "configurations": ["Web", "IdentityServer"]
+         },
+         {
+             "name": "All",
+             "configurations": ["Web", "IdentityServer", "API"]
+         }
+     ]
+ }

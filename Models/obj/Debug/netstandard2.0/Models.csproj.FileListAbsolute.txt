@@ -1,0 +1,47 @@
+C:\TestApp\Obuka\Models\bin\Debug\netstandard2.0\Models.deps.json
+C:\TestApp\Obuka\Models\bin\Debug\netstandard2.0\Models.dll
+C:\TestApp\Obuka\Models\bin\Debug\netstandard2.0\Models.pdb
+C:\TestApp\Obuka\Models\bin\Debug\netstandard2.0\Common.dll
+C:\TestApp\Obuka\Models\bin\Debug\netstandard2.0\Common.pdb
+C:\TestApp\Obuka\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+C:\TestApp\Obuka\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+C:\TestApp\Obuka\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+C:\TestApp\Obuka\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+C:\TestApp\Obuka\Models\obj\Debug\netstandard2.0\Models.csproj.CopyComplete
+C:\TestApp\Obuka\Models\obj\Debug\netstandard2.0\Models.dll
+C:\TestApp\Obuka\Models\obj\Debug\netstandard2.0\Models.pdb
+C:\Obuka\Obuka\Models\bin\Debug\netstandard2.0\Models.deps.json
+C:\Obuka\Obuka\Models\bin\Debug\netstandard2.0\Models.dll
+C:\Obuka\Obuka\Models\bin\Debug\netstandard2.0\Models.pdb
+C:\Obuka\Obuka\Models\bin\Debug\netstandard2.0\Common.dll
+C:\Obuka\Obuka\Models\bin\Debug\netstandard2.0\Common.pdb
+C:\Obuka\Obuka\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+C:\Obuka\Obuka\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+C:\Obuka\Obuka\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+C:\Obuka\Obuka\Models\obj\Debug\netstandard2.0\Models.csproj.CopyComplete
+C:\Obuka\Obuka\Models\obj\Debug\netstandard2.0\Models.dll
+C:\Obuka\Obuka\Models\obj\Debug\netstandard2.0\Models.pdb
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\bin\Debug\netstandard2.0\Models.deps.json
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\bin\Debug\netstandard2.0\Models.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\bin\Debug\netstandard2.0\Models.pdb
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\bin\Debug\netstandard2.0\Common.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\bin\Debug\netstandard2.0\Common.pdb
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\obj\Debug\netstandard2.0\Models.csproj.CopyComplete
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\obj\Debug\netstandard2.0\Models.dll
+D:\Materijal\7 Semestar\VP\proekt\Obuka\Models\obj\Debug\netstandard2.0\Models.pdb
+D:\Materijal\IdentityServer4\Models\bin\Debug\netstandard2.0\Models.deps.json
+D:\Materijal\IdentityServer4\Models\bin\Debug\netstandard2.0\Models.dll
+D:\Materijal\IdentityServer4\Models\bin\Debug\netstandard2.0\Models.pdb
+D:\Materijal\IdentityServer4\Models\bin\Debug\netstandard2.0\Common.dll
+D:\Materijal\IdentityServer4\Models\bin\Debug\netstandard2.0\Common.pdb
+D:\Materijal\IdentityServer4\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+D:\Materijal\IdentityServer4\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+D:\Materijal\IdentityServer4\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+D:\Materijal\IdentityServer4\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+D:\Materijal\IdentityServer4\Models\obj\Debug\netstandard2.0\Models.csproj.CopyComplete
+D:\Materijal\IdentityServer4\Models\obj\Debug\netstandard2.0\Models.dll
+D:\Materijal\IdentityServer4\Models\obj\Debug\netstandard2.0\Models.pdb

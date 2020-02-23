@@ -1,0 +1,27 @@
+using System.ComponentModel;
+using Newtonsoft.Json;
+
+namespace Models
+{
+    public class Case 
+    {
+        [JsonProperty(PropertyName = "id")]
+        public int Id { get; set; }
+
+        [JsonProperty(PropertyName = "description")]
+        public string Description { get; set; }
+        
+        [JsonProperty(PropertyName = "caseNumber")]
+        [DisplayName("Case number")]
+        public string CaseNumber { get; set; }
+        
+        [JsonProperty(PropertyName = "kind")]
+        public CaseKind Kind { get; set; }
+        
+        [JsonProperty(PropertyName = "status")]
+        public string Status { get; set; }
+        
+        [JsonProperty(PropertyName = "title")]
+        public string Title { get; set; }
+    }
+}

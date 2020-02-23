@@ -1,0 +1,17 @@
+@using Microsoft.AspNetCore.Authentication
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<h2>Cases</h2>
+<form asp-controller="login" asp-action="RedirectToCase" method="GET">
+    <input type="submit" value="Yes">
+</form>
+
+<h2>Users</h2>
+<form asp-controller="login" asp-action="RedirectToAdmin" method="GET">
+    <input type="submit" value="Yes">
+</form>
